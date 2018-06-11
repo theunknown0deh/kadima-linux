@@ -1,4 +1,4 @@
-# kadima-linux BETA
+#kadima-linux BETA - kernel 4.16.13
 
 We trust you have received the usual lecture from the local System
 Administrator. It usually boils down to these three things:
@@ -7,6 +7,8 @@ Administrator. It usually boils down to these three things:
     #2) Think before you type.
     #3) With great power comes great responsibility.
     
-https://goo.gl/tPxLFr
+https://goo.gl/9RL4Wm
 
-ef98817b0a3abc13edc23ae36e8aeb0868e6e12be4027786358d3fe4f27c15695ab1c985363f5cdcc9e7792b4e9d2ae97e5a6245a40f0d543dd31a8080648e3b
+41fbc4dd2fa75eef8d0c8925fb603f8a0f86dde4e4942cc87eaefad4392ce7330e00b91dc27cb418c6b58e55c422ac18a6e1fa25047af10844e5b788b708aecc
+
+BSOD - press down and enter / ls and enter
